@@ -8,7 +8,7 @@ function App() {
   // const ref = useRef(data.name);
   // console.log(ref.current);
   // weather API infos
-  const key = "996cffa6a4517055392b4e7d42154b0f";
+  const key = "###";
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=metric&appid=${key}`;
 
   // search function
